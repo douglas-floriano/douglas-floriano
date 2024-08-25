@@ -1,8 +1,15 @@
-<h2 align="left">Olá 👋! Eu sou Douglas, abaixo algumas informações sobre mim...</h2>
+<h2 align="left">Olá 👋!  Eu sou Douglas, abaixo um pouco sobre mim...</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gi"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=douglas-floriano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=douglas-floriano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1724553361~exp=1724556961~hmac=81e365aacd3dd714a958044119fd5d59486f1e2298b2a2d3fe312ef5ea098120&w=1480"  />
 
 ###
 
@@ -47,3 +54,7 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
