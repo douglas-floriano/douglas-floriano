@@ -11,6 +11,12 @@
   />
 </a>
 
+<p align="right">
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=douglas-floriano&style=for-the-badge&color=E2410E&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img alt="followers" src="https://img.shields.io/github/followers/douglas-floriano?style=for-the-badge&labelColor=0F0E0C&color=E2410E&label=FOLLOWERS" />
+</p>
+
 <p align="left">
   <a href="https://douglas-floriano.github.io/">
     <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-douglas--floriano.github.io-0F0E0C?style=for-the-badge&labelColor=0F0E0C&color=E2410E" />
@@ -43,7 +49,7 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+FullStack+Developer;Laravel+%C2%B7+React+%C2%B7+React+Native;AWS+ECS+%C2%B7+RDS+%C2%B7+CloudFront;Sistemas+que+rodam+em+produ%C3%A7%C3%A3o&center=true&width=720&height=42&size=18&color=E2410E&background=00000000&duration=3500&pause=900" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&lines=%24+whoami;Douglas+Floriano+Costa;Senior+FullStack+Developer;Laravel+%C2%B7+React+%C2%B7+React+Native+%C2%B7+AWS;Studio+of+one+%E2%80%94+sistemas+que+rodam+em+produ%C3%A7%C3%A3o;Push+%E2%86%92+ECS+%E2%86%92+CloudFront+%E2%86%92+done.&center=true&width=760&height=46&size=18&color=E2410E&background=00000000&duration=3000&pause=800" alt="typing" />
 </p>
 
 ---
@@ -130,6 +136,14 @@ Construídos do zero — sozinho. Discovery, design, código, deploy.
 
 > 🎯 **[Ver portfólio completo com prints reais →](https://douglas-floriano.github.io/)**
 
+### Repositórios em destaque
+
+<p align="left">
+  <a href="https://github.com/douglas-floriano/douglas-floriano.github.io">
+    <img alt="portfolio" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=douglas-floriano&repo=douglas-floriano.github.io&hide_border=true&bg_color=F2EDE3&title_color=0F0E0C&text_color=2A2823&icon_color=E2410E" />
+  </a>
+</p>
+
 ---
 
 ## №04 &nbsp;·&nbsp; Como eu trabalho
@@ -146,16 +160,34 @@ Construídos do zero — sozinho. Discovery, design, código, deploy.
 ## №05 &nbsp;·&nbsp; Em números
 
 <p align="center">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=douglas-floriano&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=F2EDE3&title_color=0F0E0C&text_color=2A2823&icon_color=E2410E&ring_color=E2410E" />
-  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=douglas-floriano&hide_border=true&background=F2EDE3&stroke=D9D1BE&ring=E2410E&fire=E2410E&currStreakLabel=0F0E0C&currStreakNum=0F0E0C&sideLabels=0F0E0C&sideNums=0F0E0C&dates=6B6759" />
+  <a href="https://github.com/douglas-floriano">
+    <img height="180" alt="stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=douglas-floriano&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=F2EDE3&title_color=0F0E0C&text_color=2A2823&icon_color=E2410E&ring_color=E2410E" />
+  </a>
+  <a href="https://github.com/douglas-floriano">
+    <img height="180" alt="streak" src="https://streak-stats.demolab.com?user=douglas-floriano&hide_border=true&background=F2EDE3&stroke=D9D1BE&ring=E2410E&fire=E2410E&currStreakLabel=0F0E0C&currStreakNum=0F0E0C&sideLabels=0F0E0C&sideNums=0F0E0C&dates=6B6759" />
+  </a>
 </p>
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-floriano&layout=compact&hide_border=true&langs_count=10&bg_color=F2EDE3&title_color=0F0E0C&text_color=2A2823" />
+  <img height="170" alt="languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=douglas-floriano&layout=compact&hide_border=true&langs_count=10&bg_color=F2EDE3&title_color=0F0E0C&text_color=2A2823" />
+  <img height="170" alt="productive time" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=douglas-floriano&hide_border=true&layout=compact&bg_color=F2EDE3&title_color=0F0E0C&text_color=2A2823" />
 </p>
 
+### Troféus
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribuições" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=douglas-floriano&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultipleLang" />
+  </a>
+</p>
+
+### Atividade recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/douglas-floriano/douglas-floriano/output/github-contribution-grid-snake.svg" alt="contribuições" />
 </p>
 
 ---
