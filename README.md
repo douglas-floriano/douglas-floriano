@@ -24,9 +24,6 @@
   <a href="mailto:douglas198.floriano@hotmail.com">
     <img alt="Email" src="https://img.shields.io/badge/E--MAIL-douglas198.floriano%40hotmail.com-0F0E0C?style=for-the-badge&labelColor=0F0E0C" />
   </a>
-  <a href="https://wa.me/5516991816628">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-(16)%2099181--6628-25D366?style=for-the-badge&labelColor=0F0E0C" />
-  </a>
   <a href="https://www.linkedin.com/in/douglas-costa-b581ab1a1/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-in%2Fdouglas--costa-0A66C2?style=for-the-badge&labelColor=0F0E0C" />
   </a>
@@ -70,40 +67,94 @@
 
 > Não a lista de "tecnologias que ouvi falar". Stack que toco diariamente — em produção, com responsabilidade real.
 
-**Linguagens** &nbsp;·&nbsp;
-![PHP](https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+### Linguagens
 
-**Backend** &nbsp;·&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel_10-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,ts,js,python,html,css,bash,regex,md&perline=10" />
+</p>
 
-**Frontend & Mobile** &nbsp;·&nbsp;
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### Backend & API
 
-**Banco & Dados** &nbsp;·&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,redis,nestjs,mysql&perline=10" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Horizon-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+</p>
 
-**Cloud & DevOps** &nbsp;·&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GHA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,sass,vuejs,materialui,figma&perline=10" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PrimeReact-03C4E8?style=flat-square&logo=primefaces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+</p>
+
+### Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,apple&perline=10" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/EAS_Build-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
+
+### Banco de dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb,prisma,sequelize&perline=10" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+</p>
+
+### Cloud & Infra
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,bash,cloudflare&perline=10" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonecr&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" />
+</p>
+
+### DevOps & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,vscode,postman,vim,npm,yarn&perline=10" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Trunk--based-181717?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+</p>
+
+### Integrações em produção
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PIX-32BCAD?style=flat-square&logo=pix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mercado_Pago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asaas-1E40AF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inter-FF7A00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp_Cloud-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SendGrid-3B82F6?style=flat-square&logo=mailgun&logoColor=white" />
+  <img src="https://img.shields.io/badge/OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
