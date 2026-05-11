@@ -4,7 +4,7 @@
 
 <sub>
 
-`№ 01` · `Edição 2026` · `Ribeirão Preto / SP` · `Desde 2018` · `Full-stack · SaaS · Cloud`
+`Edição 2026` · `Ribeirão Preto / SP` · `Desde 2018` · `Full-stack · SaaS · Cloud`
 
 </sub>
 
@@ -23,8 +23,6 @@
 > *"Construo SaaS multi-tenant em produção. Backend Laravel/Node, frontend React, infra AWS. Sistemas que precisam ficar de pé enquanto o cliente cresce."*
 
 ---
-
-### `№ 00` — TERMINAL
 
 ```bash
   ____   ___  _   _  ____ _        _    ____
@@ -48,8 +46,6 @@ douglas@dev:~$ cat foco.txt
 
 ---
 
-### `№ 01` — ATUANDO AGORA
-
 > *Onde o código está rodando.*
 
 | | |
@@ -58,8 +54,6 @@ douglas@dev:~$ cat foco.txt
 | **`Em desenvolvimento`** | **HasGym & Comanda.Sys** — SaaS verticais. HasGym para academias (owner, instrutor, aluno). Comanda.Sys para gastronomia. |
 
 ---
-
-### `№ 02` — STACK FERRAMENTAL
 
 > *O que rodo todo dia.*
 
@@ -133,8 +127,6 @@ douglas@dev:~$ cat foco.txt
 
 ---
 
-### `№ 03` — COMO TRABALHO
-
 > *Quatro princípios.*
 
 | | |
@@ -145,8 +137,6 @@ douglas@dev:~$ cat foco.txt
 | `04 / Vertical` | **Conheço o negócio do cliente.** *Código é consequência do entendimento.* |
 
 ---
-
-### `№ 04` — EM NÚMEROS
 
 <div align="center">
 
@@ -191,7 +181,7 @@ douglas@dev:~$ cat foco.txt
 
 <div align="center">
 
-### `№ 05` — VAMOS CONVERSAR
+### Vamos conversar
 
 <a href="https://douglas-floriano.github.io"><img src="https://img.shields.io/badge/↗_PORTFOLIO-E2410E?style=for-the-badge&logoColor=white" alt="portfolio"/></a>
 <a href="mailto:douglas198.floriano@hotmail.com"><img src="https://img.shields.io/badge/E--MAIL-0F0E0C?style=for-the-badge&logo=maildotru&logoColor=F2EDE3" alt="email"/></a>
